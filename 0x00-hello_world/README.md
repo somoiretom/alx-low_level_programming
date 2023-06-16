@@ -1,1 +1,2 @@
-Hello World C Language
+#!/bin/bash
+C First Program
