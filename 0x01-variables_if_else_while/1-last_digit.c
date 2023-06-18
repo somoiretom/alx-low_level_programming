@@ -6,8 +6,8 @@
  * main - the main entry block
  * Return: return int as 0
  */
- int main(void)
- {
+int main(void)
+{
 	int n;
 
 	srand(time(0));
