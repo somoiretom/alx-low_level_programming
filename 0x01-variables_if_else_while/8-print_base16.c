@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - main code block 
- * Return: returns int zero
+ * main - main block of code
+ * Return: return int value
  */
+
 int main(void)
 {
 	char digit;
