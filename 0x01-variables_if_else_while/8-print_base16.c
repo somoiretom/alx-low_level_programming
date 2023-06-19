@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  * main - main code block 
  *
  * Return: returns int zero
  */
-
 int main(void)
 {
 	char digit;
