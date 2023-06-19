@@ -9,6 +9,7 @@
 int main(void)
 {
 	char s = 'a';
+
 	while (s <= 'z')
 	{
 		putchar(s);
@@ -16,11 +17,13 @@ int main(void)
 	}
 
 	s = 'A';
+
 	while (s <= 'Z')
 	{
 		putchar(s);
 		s++;
 	}
+
 	putchar('\n');
 	return (0);
 }
