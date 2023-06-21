@@ -9,7 +9,7 @@ int main(void)
 
 	int m;
 
-	for(m = 0; m < 8; m++)
+	for (m = 0; m < 8; m++)
 	{
 
 		_putchar(a[m]);
