@@ -26,7 +26,7 @@ for (n = a; a >= 98; n--)
 if (n != 98)
 printf("%d, ", n);
 else if (n == 98)
-printf("%d\n", n)
+printf("%d\n", n);
 }
 }
 }
