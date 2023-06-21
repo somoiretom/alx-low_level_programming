@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * main - main code block
- * print_alphabet - a code prototype
+ * print_alphabet - a code prototype for ALX projects
  * Return: return int zero
  */
 
