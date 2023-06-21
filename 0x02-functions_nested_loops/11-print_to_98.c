@@ -6,7 +6,7 @@
  * @a: number
  */
 
-void print_to_98(int n)
+void print_to_98(int a)
 {
 int m, n;
 if (a <= 98)
