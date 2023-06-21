@@ -5,6 +5,6 @@
  * file: main.h
  */
 
-int -putchar(char a);
+int _putchar(char a);
 
 #endif
