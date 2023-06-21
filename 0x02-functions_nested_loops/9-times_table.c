@@ -21,8 +21,15 @@ if (o < 10 && n != 0)
 {
 _putchar(',');
 _putchar(' ');
+_putchar(' ');
+_putchar(0 + '0');
+}
+else if (o >= 10)
+{
+_putchar(',');
+_putchar(' ');
 _putchar((o / 10) + '0');
-_putchar((o % 10) + '0');
+_putchar((0 % 10) + '0');
 }
 }
 _putchar('\n');
