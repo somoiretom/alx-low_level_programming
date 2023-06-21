@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
  * main - main block of code
  * Return: returns int zero
  */
-
 int main(void)
 {
 	char a[] = "_putchar";
