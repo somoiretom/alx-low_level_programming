@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - main code block
- *print_alphabet - a code prototype
+ * print_alphabet - a code prototype
  * Return: return int zero
  */
 
@@ -17,8 +17,4 @@ void print_alphabet(void)
 	}
 	_putchar ('\n');
 
-
 }
-
-	
-
