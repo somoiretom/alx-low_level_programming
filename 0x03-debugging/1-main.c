@@ -9,11 +9,8 @@ int main(void)
 
 {
 	int i;
-
 	printf("Infinite loop incoming :(\n");
-
 	i = 0;
-
 	/**
 	* while (1 < 10)
 	* {
