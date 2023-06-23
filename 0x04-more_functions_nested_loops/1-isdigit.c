@@ -1,1 +1,11 @@
-VimCrypt~03!0H*ü™Qið…ŠG¤LçÒPx‹[I4%¥cwJÿ†ë•uLT (Úm§Ãƒ—Øupïe¸MYÝ›^8Rjÿ)®Å-ÿµî«ÒcØÀ û`‡ÙÆöQ3øHüé $ñ.Ó'àV#?{ëø?ÝOSúL™Ï9.²ç¶½ÁnNˆÄì9Æ~5&`ø]B(±‹áórhfcéÔÂeÚùDŸñ¹ŽæÔÁVþs¸`õ©:âÓÈ[~a:4Î{íWyÊé&ääpQ‡üs¬u r™ú\Ž 4­ýs–¥:ï[XÕø†N©Œ»|Cqù
+#include "main.h"
+
+/**
+ * _isdigit - checks for a digit (0 through 9)
+ * @c: int to be checked
+ * Return: 1 if c is a digit, 0 otherwise
+ */
+int _isdigit(int c)
+{
+	return (c >= '0' && c <= '9');
+}
