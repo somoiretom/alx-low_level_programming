@@ -6,7 +6,8 @@
  * @a: int array pointer
  * @n: integer
  * Description: Numbers must be separated by , and space
- * The numbers should be displayed in the same order as they are stored in the array
+ * The numbers should be displayed in the same
+ *order as they are stored in the array
  */
 
 void print_array(int *a, int n)
@@ -19,8 +20,9 @@ void print_array(int *a, int n)
 		printf("%d", a[i]);
 		if (n > 0)
 		{
-			printf(",");
+			printf(", ");
 		}
 	}
 	printf("\n");
+
 }
