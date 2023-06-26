@@ -2,11 +2,10 @@
 /**
  * _puts - outputs a string
  * @str: pointer to print
- * @c: character c
+ *
  * Return: return void
  */
 
-void _putchar(char c);
 
 void _puts(char *str)
 {
