@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * rev_string - prints rev string
- * 's: pointer to string
+ * @s: pointer to string
  * Return: returns void
  */
 
