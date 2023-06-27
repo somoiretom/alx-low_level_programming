@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int n = 2772, i = 0. j, rd;
+	int n = 2772, i = 0, j, rd;
 	char password[100];
 	time_t t;
 
