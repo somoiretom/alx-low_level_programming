@@ -5,9 +5,9 @@
  * @dest: pointer to the string
  * @src: string source
  * @n: no of bytes of a str
+ *
  * Return: returns a pointer 
  */
-
 char *_strncat(char *dest, char *src, int n)
 {
 	int a, b;
