@@ -4,13 +4,15 @@
  * _strcmp - compares 2 strings
  * @s1: 1st string
  * @s2: 2nd string
- * Return: returns less than 0 for s1 is less than s2
+ *
+ * Return: less than 0 if s1 is less than s2, 0 if they're equal,
+ * more than 0 if s1 is greater than s2
  */
 int _strcmp(char *s1, char *s2)
 {
 	while (*s1 == *s2)
 	{
-		if (*s1 == *s2)
+		if (*s1 == '\0')
 		{
 			return (0);
 		}
