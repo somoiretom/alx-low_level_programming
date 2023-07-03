@@ -4,9 +4,9 @@
  * *_memset - fills memory with byte consatnt
  * @s: memory area to be filled
  * @b: char to copy
- * @n: no of times to cpy b
+ * @n: number of times to copy b
  *
- * Return: pointer to s
+ * Return: pointer to the memory area s
  */
 char *_memset(char *s, char b, unsigned int n)
 {
