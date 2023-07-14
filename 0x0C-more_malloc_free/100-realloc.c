@@ -3,7 +3,7 @@
 
 /**
  * *_realloc - reallocates a block of memory
- * @ptr: pointer
+ * @ptr: pointer to the memory previously allocated by malloc
  * @old_size: size of the allocated mem
  * #new_size: new size of the new memory
  *
