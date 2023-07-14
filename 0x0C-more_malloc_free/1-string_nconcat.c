@@ -3,8 +3,8 @@
 
 /**
  * *string_nconcat - concatenates bytes
- * @s: string to append to
- * @s: string to concatenate from
+ * @s1: string to append to
+ * @s2: string to concatenate from
  * @n: number of bytes from s2 to conc to s1
  *
  * Return: pointer
