@@ -1,6 +1,5 @@
 #include "variadic_functions.h"
 
-
 /**
  * print_numbers - prints no given us parameters
  * @Separator: string to be printed btwn no
@@ -24,5 +23,6 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 	}
 
 	va_end(list);
+
 	printf("\n");
 }
