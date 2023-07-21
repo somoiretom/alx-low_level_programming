@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - prints no given us parameters
- * @Separator: string to be printed btwn no
+ * @separator: string to be printed btwn no
  * @n: no of int passed to the func
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
